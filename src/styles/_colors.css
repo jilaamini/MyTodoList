@@ -1,0 +1,23 @@
+:root {
+  /* Inspired by Bootstrap */
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #4eb4b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+ 
+    /* Inspired by Tailwind colors spectrum */
+    --brand-100: #e6f5f4; 
+    --brand-200: #cfeae9; 
+    --brand-300: #b7dfde; 
+    --brand-400: #a0d4d3; 
+    --brand-500: #3d948f; 
+    --brand-600: #357e7a; 
+    --brand-700: #2e6865; 
+    --brand-800: #265250; 
+    --brand-900: #1e3c3b; 
+    --brand-1000: #162626; 
+  }

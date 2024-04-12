@@ -1,0 +1,7 @@
+.hover-visible-container .hover-visible {
+    opacity: 0;
+}
+
+.hover-visible-container:hover .hover-visible {
+    opacity: 1;
+}

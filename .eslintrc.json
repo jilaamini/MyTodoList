@@ -1,0 +1,6 @@
+{
+  "extends": ["next", "next/core-web-vitals"],  
+  "rules": {
+    "next/no-page-custom-fonts": "off" // Hypothetical rule name
+  }
+}
